@@ -30,7 +30,7 @@
     "lupine.api": "^1.0.1",
     "lupine.components": "^1.0.1",
     "lupine.web": "^1.0.1",
-    "lupine.press": "^1.0.1"
+    "lupine.press": "^1.0.7"
   },
   "devDependencies": {
     "esbuild": "^0.24.2",
