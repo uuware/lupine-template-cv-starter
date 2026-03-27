@@ -11,8 +11,8 @@
       "outdir": "/"
     },
     {
-      "index": "web/lupine-template-cv-starter/index.tsx",
-      "html": "web/lupine-template-cv-starter/index.html",
+      "index": "web/src/lupine-template-cv-starter/index.tsx",
+      "html": "web/src/lupine-template-cv-starter/index.html",
       "outdir": "/lupine-template-cv-starter"
     }
   ],
@@ -26,7 +26,7 @@
     },
     {
       "type": "web",
-      "from": "web/lupine-template-cv-starter/404.html",
+      "from": "web/src/lupine-template-cv-starter/404.html",
       "to": "lupine-template-cv-starter/404.html"
     },
     {
